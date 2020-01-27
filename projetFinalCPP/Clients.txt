@@ -1,0 +1,12 @@
+CL001
+Bill Gates
+Windows
+Actif
+CL002
+Steve Jobs
+pomme
+Actif
+CL003
+Ali Ben Salah
+couscous
+Inactif

@@ -1,0 +1,437 @@
+﻿  clsClient.cpp
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,8): error C2143:  syntax error: missing ';' before '<'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,8): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,27): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(8,25): error C2061:  syntax error: identifier 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(11,19): error C3646:  'Trouver': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(11,19): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(11,31): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C3646:  'Nom': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C3646:  'NIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C3646:  'Status': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C3646:  'getNumero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,20): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C3646:  'getNIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,17): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(16,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C3646:  'TrouverCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,37): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C3646:  'Client': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C3646:  'Type': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C3646:  'date': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(15,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C3646:  'getNumCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,23): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C3646:  'getTypeCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,24): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(8,19): error C2039:  'getNumero': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(8,40): error C2065:  'Numero': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(9,19): error C2039:  'getNIP': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(9,37): error C2065:  'NIP': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(13,78): error C2511:  'void clsClient::Ouvrir(std::string,std::string,std::string,std::string)': overloaded member function not found in 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(14,2): error C2671:  'clsClient::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(14,25): error C2671:  'clsClient::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(14,42): error C2671:  'clsClient::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(14,59): error C2671:  'clsClient::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(16,22): error C2039:  'TrouverCompte': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+  clsCompte.cpp
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.cpp(17,9): error C2065:  'Comptes': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C3646:  'Client': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C3646:  'Type': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C3646:  'date': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(15,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C3646:  'getNumCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,23): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C3646:  'getTypeCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,24): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(12,21): error C3646:  'AfficherDate': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(12,21): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(12,23): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(13,22): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(8,95): error C2511:  'void clsCompte::Ouvrir(std::string,std::string,std::string,clsDate,double)': overloaded member function not found in 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(4): message :  see declaration of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(9,2): error C2671:  'clsCompte::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(9,25): error C2671:  'clsCompte::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(9,48): error C2671:  'clsCompte::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(9,67): error C2671:  'clsCompte::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(9,86): error C2671:  'clsCompte::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(43,41): error C2039:  'Numero': is not a member of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(4): message :  see declaration of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(44,41): error C2039:  'Client': is not a member of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(4): message :  see declaration of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(45,37): error C2039:  'Type': is not a member of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(4): message :  see declaration of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(46,45): error C2039:  'date': is not a member of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(4): message :  see declaration of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(51,19): error C2039:  'getNumCompte': is not a member of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(4): message :  see declaration of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(51,43): error C2065:  'Numero': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(52,19): error C2039:  'getTypeCompte': is not a member of 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(4): message :  see declaration of 'clsCompte'
+  clsDataSource.cpp
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.cpp(52,44): error C2065:  'Type': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C3646:  'Nom': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C3646:  'NIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(8,24): error C3646:  'Comptes': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(8,24): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C3646:  'Status': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C3646:  'getNumero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,20): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C3646:  'getNIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,17): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(14,33): error C2061:  syntax error: identifier 'clsListeCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(16,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C3646:  'TrouverCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,37): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C3646:  'Client': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C3646:  'Type': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C3646:  'date': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(15,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C3646:  'getNumCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,23): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C3646:  'getTypeCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,24): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,8): error C2143:  syntax error: missing ';' before '<'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,8): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,27): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(14,20): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,18): error C3646:  'Afficher': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,18): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,20): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,8): error C2143:  syntax error: missing ';' before '<'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,8): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,27): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(12,21): error C3646:  'AfficherDate': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(12,21): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(12,23): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(13,22): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(5,42): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(7,42): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(9,35): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.cpp(15,56): error C2511:  'clsListeClient clsDataSource::GetClients(std::string)': overloaded member function not found in 'clsDataSource'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(2): message :  see declaration of 'clsDataSource'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.cpp(37,39): error C2660:  'clsClient::Ouvrir': function does not take 4 arguments
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(16,7): message :  see declaration of 'clsClient::Ouvrir'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.cpp(44,71): error C2511:  'clsListeCompte clsDataSource::GetComptes(std::string,std::string)': overloaded member function not found in 'clsDataSource'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(2): message :  see declaration of 'clsDataSource'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.cpp(72,32): error C2660:  'clsDate::setDate': function does not take 1 arguments
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(13,7): message :  see declaration of 'clsDate::setDate'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.cpp(78,77): error C2660:  'clsCompte::Ouvrir': function does not take 5 arguments
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(15,7): message :  see declaration of 'clsCompte::Ouvrir'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.cpp(85,86): error C2511:  'void clsDataSource::UpdateComptes(std::string,std::string,double)': overloaded member function not found in 'clsDataSource'
+  clsDate.cpp
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(2): message :  see declaration of 'clsDataSource'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(12,21): error C3646:  'AfficherDate': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(12,21): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(12,23): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(13,22): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.cpp(7,17): error C2039:  'AfficherDate': is not a member of 'clsDate'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(2): message :  see declaration of 'clsDate'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.cpp(7,51): error C2065:  'Jour': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.cpp(7,75): error C2065:  'Mois': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.cpp(7,99): error C2065:  'Annee': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.cpp(9,36): error C2511:  'void clsDate::setDate(std::string)': overloaded member function not found in 'clsDate'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.h(2): message :  see declaration of 'clsDate'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.cpp(13,2): error C2671:  'clsDate::setDate': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.cpp(13,21): error C2671:  'clsDate::setDate': static member functions do not have 'this' pointers
+  clsGuichet.cpp
+C:\Users\raouf\Desktop\projetFinalCPP\clsDate.cpp(13,40): error C2671:  'clsDate::setDate': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(5,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(5,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(6,18): error C3646:  'Compagnie': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(6,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(7,16): error C3646:  'Adresse': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(7,16): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(8,15): error C3646:  'Status': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(8,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(10,24): error C3646:  'Clients': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(10,24): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(14,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(16,31): error C3646:  'getListeClient': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(16,31): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(16,33): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,8): error C2143:  syntax error: missing ';' before '<'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,8): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,27): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(10,25): error C2061:  syntax error: identifier 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(12,19): error C3646:  'Trouver': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(12,19): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(12,21): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(14,20): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,18): error C3646:  'Afficher': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,18): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,20): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(8,127): error C2511:  'void clsGuichet::Ouvrir(std::string,std::string,std::string,clsListeClient,std::string,float)': overloaded member function not found in 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(2): message :  see declaration of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(9,2): error C2671:  'clsGuichet::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(9,25): error C2671:  'clsGuichet::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(9,54): error C2671:  'clsGuichet::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(10,2): error C2671:  'clsGuichet::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(10,25): error C2671:  'clsGuichet::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(10,46): error C2671:  'clsGuichet::Ouvrir': static member functions do not have 'this' pointers
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(13,28): error C2039:  'getListeClient': is not a member of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(2): message :  see declaration of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(13,54): error C2065:  'Clients': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(19,2): error C2065:  'Status': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(23,41): error C2039:  'Numero': is not a member of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(2): message :  see declaration of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(24,47): error C2039:  'Compagnie': is not a member of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(2): message :  see declaration of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(25,43): error C2039:  'Adresse': is not a member of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(2): message :  see declaration of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.cpp(26,41): error C2039:  'Status': is not a member of 'clsGuichet'
+  clsListeClient.cpp
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(2): message :  see declaration of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,8): error C2143:  syntax error: missing ';' before '<'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,8): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,27): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(10,25): error C2061:  syntax error: identifier 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(12,19): error C3646:  'Trouver': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(12,19): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(12,21): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(14,20): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,18): error C3646:  'Afficher': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,18): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,20): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C3646:  'Nom': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C3646:  'NIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(8,24): error C3646:  'Comptes': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(8,24): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C3646:  'Status': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C3646:  'getNumero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,20): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C3646:  'getNIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,17): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(14,33): error C2061:  syntax error: identifier 'clsListeCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(16,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C3646:  'TrouverCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,37): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(8,47): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(10,48): error C2511:  'void clsListeClient::Ajouter(clsClient)': overloaded member function not found in 'clsListeClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(3): message :  see declaration of 'clsListeClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(10,50): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(12,27): error C2039:  'Trouver': is not a member of 'clsListeClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(3): message :  see declaration of 'clsListeClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(20,14): error C3861:  'Existe': identifier not found
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(28,11): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(34,43): error C2511:  'int clsListeClient::Existe(std::string)': overloaded member function not found in 'clsListeClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(3): message :  see declaration of 'clsListeClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(35,22): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(36,7): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(40,24): error C2039:  'Afficher': is not a member of 'clsListeClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(3): message :  see declaration of 'clsListeClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(41,9): error C2065:  'maliste': undeclared identifier
+  clsListeCompte.cpp
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.cpp(44,10): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C3646:  'Client': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C3646:  'Type': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C3646:  'date': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(15,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C3646:  'getNumCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,23): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C3646:  'getTypeCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,24): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,8): error C2143:  syntax error: missing ';' before '<'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,27): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.cpp(8,47): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.cpp(9,50): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.cpp(13,9): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.cpp(19,22): error C2065:  'maliste': undeclared identifier
+  clsUtilitaire.cpp
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.cpp(21,28): error C2065:  'maliste': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,8): error C2143:  syntax error: missing ';' before '<'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(6,27): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(10,25): error C2061:  syntax error: identifier 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(12,19): error C3646:  'Trouver': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(12,19): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(12,21): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(14,20): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,18): error C3646:  'Afficher': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,18): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeClient.h(15,20): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,8): error C2143:  syntax error: missing ';' before '<'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(5,27): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(8,25): error C2061:  syntax error: identifier 'clsCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(11,19): error C3646:  'Trouver': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(11,19): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsListeCompte.h(11,31): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(5,42): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(7,42): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(9,35): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(5,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(5,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(6,18): error C3646:  'Compagnie': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(6,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(7,16): error C3646:  'Adresse': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(7,16): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(8,15): error C3646:  'Status': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(8,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(14,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C3646:  'Nom': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C3646:  'NIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C3646:  'Status': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C3646:  'getNumero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,20): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C3646:  'getNIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,17): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(16,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C3646:  'TrouverCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,37): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C3646:  'Client': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(7,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(8,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C3646:  'Type': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(9,13): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C3646:  'date': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(10,14): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(15,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C3646:  'getNumCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,21): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(21,23): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C3646:  'getTypeCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,22): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsCompte.h(22,24): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsUtilitaire.h(10,2): warning C4091:  'static ': ignored on left of 'clsUtilitaire' when no variable is declared
+C:\Users\raouf\Desktop\projetFinalCPP\clsUtilitaire.cpp(61,34): error C2039:  'getNIP': is not a member of 'clsClient'
+  Source.cpp
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(5,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(5,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(6,18): error C3646:  'Compagnie': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(6,18): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(7,16): error C3646:  'Adresse': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(7,16): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(8,15): error C3646:  'Status': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(8,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(10,24): error C3646:  'Clients': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(10,24): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(14,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(16,31): error C3646:  'getListeClient': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(16,31): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(16,33): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C3646:  'Numero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(5,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C3646:  'Nom': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(6,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C3646:  'NIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(7,12): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(8,24): error C3646:  'Comptes': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(8,24): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C3646:  'Status': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(9,15): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C3646:  'getNumero': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,18): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(11,20): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C3646:  'getNIP': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,15): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(12,17): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(14,33): error C2061:  syntax error: identifier 'clsListeCompte'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(16,21): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C3646:  'TrouverCompte': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,25): error C2059:  syntax error: '('
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(17,37): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(5,34): error C3646:  'GetClients': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(5,35): error C2065:  'string': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(5,42): error C2146:  syntax error: missing ')' before identifier 'path'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(5,47): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(7,34): error C3646:  'GetComptes': unknown override specifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(7,35): error C2065:  'string': undeclared identifier
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(7,42): error C2146:  syntax error: missing ')' before identifier 'path'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(7,62): error C2238:  unexpected token(s) preceding ';'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(9,35): error C2061:  syntax error: identifier 'string'
+C:\Users\raouf\Desktop\projetFinalCPP\clsUtilitaire.h(10,2): warning C4091:  'static ': ignored on left of 'clsUtilitaire' when no variable is declared
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(11,67): error C2039:  'GetClients': is not a member of 'clsDataSource'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(2): message :  see declaration of 'clsDataSource'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(11,77): error C3861:  'GetClients': identifier not found
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(18,45): error C2039:  'getListeClient': is not a member of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\clsGuichet.h(2): message :  see declaration of 'clsGuichet'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(20,37): error C2039:  'GetComptes': is not a member of 'clsDataSource'
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(2): message :  see declaration of 'clsDataSource'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(20,79): error C2039:  'getNumero': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(20,47): error C3861:  'GetComptes': identifier not found
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(26,25): error C2039:  'TrouverCompte': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(27,25): error C2039:  'TrouverCompte': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(30,25): error C2039:  'TrouverCompte': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(31,25): error C2039:  'TrouverCompte': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(34,25): error C2039:  'TrouverCompte': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(40,68): error C2039:  'TrouverCompte': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(40,119): error C2039:  'TrouverCompte': is not a member of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\clsClient.h(2): message :  see declaration of 'clsClient'
+C:\Users\raouf\Desktop\projetFinalCPP\Source.cpp(40,144): error C2660:  'clsDataSource::UpdateComptes': function does not take 1 arguments
+  Generating Code...
+C:\Users\raouf\Desktop\projetFinalCPP\clsDataSource.h(9,14): message :  see declaration of 'clsDataSource::UpdateComptes'
